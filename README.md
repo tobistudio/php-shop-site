@@ -5,10 +5,6 @@
     </a>
 </p>
 
-<p align="center">
-
-</p>
-
 ：
 
 ![](web/assets/images/vmoex-screenshot.png)
