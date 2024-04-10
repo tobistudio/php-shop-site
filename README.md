@@ -36,9 +36,6 @@
 - Yarn  1.7+
 - Redis 3.2+
 
-
-- 
-
 - JQuery
 - Bootstrap / Bootstrap-social
 - JQuery-pjax
